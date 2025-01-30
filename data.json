@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 16 Pro Max",
+    "category": "phones",
+    "price": 189999,
+    "image": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/tile/Apple-iPhone-16-Pro-hero-240909-lp.jpg.news_app_ed.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Apple MacBook Pro M4",
+    "category": "laptops",
+    "price": 249999,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp14-spaceblack-select-202410?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1728916305295"
+  },
+  {
+    "id": 3,
+    "name": "Nike Air Max 270",
+    "category": "shoes",
+    "price": 14999,
+    "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/awjogtdnqxniqqk0wpgf/AIR+MAX+270.png"
+  },
+  {
+    "id": 4,
+    "name": "Balenciaga T-shirt",
+    "category": "clothing",
+    "price": 49999,
+    "image": "https://media.monogramparis.com/328838/t-shirt-balenciaga-coton-noir.webp"
+  },
+  {
+    "id": 5,
+    "name": "Balenciaga Triple S",
+    "category": "shoes",
+    "price": 129999,
+    "image": "https://balenciaga.dam.kering.com/m/154df30b94fce56b/Medium-534217W2CA11000_F.jpg?v=8"
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "phones",
+    "price": 159999,
+    "image": "https://m.media-amazon.com/images/I/61uvELoqSCL.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Google Pixel 8 Pro",
+    "category": "phones",
+    "price": 129999,
+    "image": "https://m.media-amazon.com/images/I/71ljqdkzJzL.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Xiaomi 14 Ultra",
+    "category": "phones",
+    "price": 99999,
+    "image": "https://img.pccomponentes.com/articles/1081/10817939/2241-xiaomi-14-ultra-16-512gb-blanco-libre-comprar.jpg"
+  },
+  {
+    "id": 9,
+    "name": "ASUS ROG Zephyrus G16",
+    "category": "laptops",
+    "price": 179999,
+    "image": "https://thumb.pccomponentes.com/w-530-530/articles/1081/10817651/3799-asus-rog-zephyrus-g16-oled-gu605mv-qr047-intel-core-ultra-9-185h-32gb-1tb-ssd-rtx-4060-16-mejor-precio.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Lenovo Legion 9i",
+    "category": "laptops",
+    "price": 199999,
+    "image": "https://static.fnac-static.com/multimedia/Images/FR/MDM/6f/fb/52/22215535/1541-3/tsp20250126031222/PC-Portable-Gaming-Lenovo-Legion-9-16IRX8-16-3-2K-165Hz-Intel-Core-i9-32-Go-RAM-2-To-D-Nvidia-GeForce-RTX-4080-Noir-Carbone.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Dell XPS 15",
+    "category": "laptops",
+    "price": 169999,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3iIUP3Ec_Jh_pBg1DblZ_NhmIoCEHGGtzFw&s"
+  },
+  {
+    "id": 12,
+    "name": "Gucci Hoodie",
+    "category": "clothing",
+    "price": 69999,
+    "image": "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1700756120/770842_XJF3O_4030_001_100_0000_Light.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Off-White Jeans",
+    "category": "clothing",
+    "price": 84999,
+    "image": "https://www.mytheresa.com/media/1094/1238/100/b8/P00717207.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Adidas Yeezy Boost 350 V2",
+    "category": "shoes",
+    "price": 59999,
+    "image": "https://i8.amplience.net/i/jpl/fp_642371_a?qlt=92&w=600&h=464&v=1&fmt=auto"
+  },
+  {
+    "id": 15,
+    "name": "New Balance 990v6",
+    "category": "shoes",
+    "price": 39999,
+    "image": "https://nb.scene7.com/is/image/NB/m990gl6_nb_02_i?$dw_detail_main_lg$&bgc=f1f1f1&layer=1&bgcolor=f1f1f1&blendMode=mult&scale=10&wid=1600&hei=1600"
+  }
+]
